@@ -11,7 +11,7 @@
 
 set -x #debug output
 set -e #error finding
-set -o pipefail
+#set -o pipefail
 
 df -h
 
