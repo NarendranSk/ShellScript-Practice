@@ -1,0 +1,2 @@
+# ShellScript-Practice
+Learning Purpose
